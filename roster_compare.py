@@ -9,7 +9,7 @@ ROSTER = "c:/Users/rgilbert/Downloads/clean band roster 2013-2014.xlsx"
 MISFITS = "c:/Users/rgilbert/Downloads/band roster 2013.xlsx"
 next_year_brass_file = "c:/Users/rgilbert/Downloads/next_year_brass.csv"
 current_brass_file = "c:/Users/rgilbert/Downloads/current_brass.csv"
-
+new_var = "I am a new var"
 next_year_ww_file = "c:/Users/rgilbert/Downloads/next_year_ww.csv"
 current_ww_file = "c:/Users/rgilbert/Downloads/current_ww.csv"
 
